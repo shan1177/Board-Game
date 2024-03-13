@@ -1,2 +1,3 @@
 # Board-Game
-Simple three player game made in Python
+Created a small board game type thing in twenty minutes\
+GUI to be added later
